@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="My2DGameTest:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/My2DGameTest_jar2</output-path>
+    <root id="archive" name="My2DGameTest.jar">
+      <element id="module-output" name="My2DGameTest" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/res/lib/mysql-connector-java-8.0.30.jar" path-in-jar="/" />
+      <element id="library" level="module" name="mysql-connector-java-8.0.30.jar" module-name="My2DGameTest" />
+    </root>
+  </artifact>
+</component>
